@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanka0815&show_icons=true&locale=en" alt="priyanka0815" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka0815&" alt="priyanka0815" /></p>
+
+<img src="https://raw.githubusercontent.com/priyanka0815/priyanka0815/output/snake-dark.svg" alt="Snake Animation" />
