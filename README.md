@@ -7,15 +7,15 @@
 
 <h3>Hey there! I am pleased to have you here..!!</h3>
 
-- 🔭 Currently in 3rd year of B.Tech in Computer Science.
+- 🔭 Currently in Final year of B.Tech in Computer Science.
 
 - 🌱 I’m currently learning **Frameworks.**
 
-- 💬 Ask me about **JavaScript, React JS, Node JS.**
+- 💬 Ask me about **JavaScript, React JS, Node JS, API development.**
 
 - 👨‍💻 I am always open for collaboration and group projects.
 
-- 📫 Please reach me out via **pt290030@gmail.com**
+- 📫 Please reach me out via **[pt290030@gmail.com](mailto:pt290030@gmail.com)**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
